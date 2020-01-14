@@ -1,0 +1,10 @@
+simName         WithKea
+Pkea    .1
+includeOSM      1
+StromaKStart    .010
+LumenKStart     .010
+simName         NoKea
+Pkea    0
+includeOSM      1
+StromaKStart    .10
+LumenKStart     .10

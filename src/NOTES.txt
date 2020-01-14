@@ -1,0 +1,4 @@
+npqsim{1}.simparams.varsforsim = row labels for npqsim{1}.simulatedvalues
+----- Where npqsim{1}.simparams.varsforsim(n) is the label for row n of the simulatedvalues
+
+run [s,~] = getStaticVals( npqsim{1} );
